@@ -7,12 +7,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------- NOMOR
  let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
- 》• _*Romli Ngab*_
+ 》• _*jarot Ngab*_
  》• _*Naiichnz Uwu*_
 ------- [ *Nomer Owner* ] -------
 
- 》•https://wa.me/6281322667077 (Romli)
- 》•https://wa.me/6281215710461 (Naiichnz)
+ 》•https://wa.me/6285850539404 (𝑱𝒂𝒓𝒐𝒕)
+ 》•https://wa.me/6289654565010 (𝒓𝒂𝒌𝒂)
 
 📮 *Note:*
 • Owner tidak menerima save contact
@@ -24,10 +24,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Romli Ngab!!
-*ᴀɢᴇ:* 16th
-*ᴄʟᴀss:* 10
-*sᴛᴀᴛᴜs:* *yaa*
+*ɴᴀᴍᴇ:* 𝑱𝒂𝒓𝒐𝒕 Ngab!!
+*ᴀɢᴇ:* 18th
+*ᴄʟᴀss:* 𝒍𝒖𝒍𝒖𝒔
+*sᴛᴀᴛᴜs:* *𝒔𝒊𝒏𝒈𝒍𝒆*
 
 *ʙɪʀᴛʜᴅᴀʏ:* 4j2k6
 *ᴀᴅᴅʀᴇss:* Indonesia, jawa barat, Bandung Barat
