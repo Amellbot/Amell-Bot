@@ -128,9 +128,9 @@ global.author = '                「 Jarotbotz 」'
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/e52b9c120b83437eb894b.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/e52b9c120b83437eb894b.jpg'
-global.thumbbc = 'https://telegra.ph/file/ca65ae84ea60f45a64133.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/8d92901f963dc03d625fc.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/8d92901f963dc03d625fc.jpg'
+global.thumbbc = 'https://telegra.ph/file/8d92901f963dc03d625fc.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -176,8 +176,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Naiichnz'
-global.stickauth = `By ZxyuuBOTZ`
+global.stickpack = 'Jarot'
+global.stickauth = `By JarotBOTZ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
