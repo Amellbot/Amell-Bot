@@ -11,6 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • JAROT
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,37 +45,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Naiichnz'
+global.sig = 'https://instagram.com/frnshpvirtual_'
 global.sgh = 'https://github.com/romlisuhanda'
-global.sgc = 'https://chat.whatsapp.com/C3NffywEXk4KQUZF0iH2DQ'
-global.sdc = '-'
+global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+global.syt = 'https://youtu.be/sKYZri1Envg'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081322667077'
+global.pdana = '085850539404'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '081322667077'
-global.ppulsa2 = '081215710461'
+global.ppulsa = '085850539404'
+global.ppulsa2 = '085850539404'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281224804625'
-global.nomorown = '6281215710461'
-global.namebot = 'Zxyuu BOT'
-global.nameown = 'Zxyuu Romm'
+global.nomorbot = '6289654565010'
+global.nomorown = '6285850539404'
+global.namebot = 'Raka BOT'
+global.nameown = 'Jarot'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281215710461'],
-  ['6281215710461'],
-  ['6281322667077'],
-  ['6281322667077', 'ZxyuuRomm🗿', true]
+  ['6289654565010'],
+  ['6289654565010'],
+  ['6285850539404'],
+  ['6285850539404', 'Jarot🗿', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6281215710461'] // Want some help?
-global.prems = ['6281215710461'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6285850539404'] // Want some help?
+global.prems = ['6285850539404'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                  「 ZxyuuBOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZxyuuBOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  ZxyuuRomm'
+global.wm = '                  「 JarotBOTZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rakabotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  Rakabotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ZxyuuBotz Whatsapp Bot By Romli'
-global.author = '                「 ZxyuuBotz 」'
+global.titlebot = '🌱 rakaBotz Whatsapp Bot By Jarot'
+global.author = '                「 Jarotbotz 」'
 
 
 /*============== LOGO ==============*/
