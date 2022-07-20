@@ -45,37 +45,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/frnshpvirtual_'
-global.sgh = 'https://github.com/romlisuhanda'
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.syt = 'https://youtu.be/sKYZri1Envg'
+global.sig = 'https://instagram.com/Amell_'
+global.sgh = 'Privasi'
+global.sgc = 'https://chat.whatsapp.com/J9v6iwwrDvX3zPpEnLbVwB'
+global.syt = 'https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850539404'
+global.pdana = '0895366943070'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085850539404'
-global.ppulsa2 = '085850539404'
+global.ppulsa = '0895366943070'
+global.ppulsa2 = '0895366943070'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289654565010'
-global.nomorown = '6285850539404'
-global.namebot = 'Raka BOT'
-global.nameown = 'Jarot'
+global.nomorbot = '62895366943070'
+global.nomorown = '62895366943070'
+global.namebot = 'Amell-Md'
+global.nameown = 'Amell Cantik'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289654565010'],
-  ['6289654565010'],
-  ['6285850539404'],
-  ['6285850539404', 'Jarot🗿', true]
+  ['62895366943070'],
+  ['62895366943070'],
+  ['62895366943070'],
+  ['62895366943070', 'Amell🌸', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6285850539404'] // Want some help?
-global.prems = ['6285850539404'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['62895366943070'] // Want some help?
+global.prems = ['62895366943070'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -117,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                  「 JarotBOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rakabotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  Rakabotz'
+global.wm = ' Jangan Spam Bot Amell Oke Kalau Tidak Mau Kena  Banned 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Amwll-Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  Amelbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 rakaBotz Whatsapp Bot By Jarot'
-global.author = '                「 Jarotbotz 」'
+global.titlebot = '🌱 Amell Bot Creator By Amell'
+global.author = 'Copyright Amellbotz-MD Support All Whatsappp」'
 
 
 /*============== LOGO ==============*/
@@ -165,7 +165,7 @@ global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊❃ '                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.cmenua = '\nPlaswe Your The Bot Spam Okey\n     ' //after
 global.pmenus = '┊'                              //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
@@ -176,8 +176,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Jarot'
-global.stickauth = `By JarotBOTZ`
+global.stickpack = 'Amell-Md'
+global.stickauth = `By Amellbotz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
