@@ -68,9 +68,9 @@ global.nameown = 'Amell Cantik'
 
 /*============== STAFF ==============*/
 global.owner = [
+  ['+1 (506) 404-3432'],
   ['62895366943070'],
-  ['62895366943070'],
-  ['62895366943070'],
+  ['+1 (506) 404-3432'],
   ['62895366943070', 'Amell🌸', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
