@@ -60,8 +60,8 @@ global.ppulsa2 = '0895366943070'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895366943070'
-global.nomorown = '62895366943070'
+global.nomorbot = '+1 (506) 404-3432'
+global.nomorown = '1(506) 404-3432'
 global.namebot = 'Amell-Md'
 global.nameown = 'Amell Cantik'
 
